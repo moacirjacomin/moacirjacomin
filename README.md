@@ -63,7 +63,7 @@ A Full Stack Web/Mobile Developer. I Spend most of time coding outstanding proje
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+ 
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moacirjacomin&layout=compact&hide=html" alt="moacirjacomin" /></p>
 

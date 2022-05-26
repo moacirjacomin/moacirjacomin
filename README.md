@@ -71,6 +71,7 @@ A Full Stack Web/Mobile Developer. I Spend most of time coding outstanding proje
 
 </details>
 
+<img src="https://github.com/DuhAlonso/DuhAlonso/blob/output/github-contribution-grid-snake.svg">
 
 #
 <footer>
